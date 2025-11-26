@@ -3,7 +3,7 @@
 This repository contains the code associated with our paper:
 
 **Max Nilsson, Anton Åkerman, and Pontus Giselsson.**  
-*Extending Douglas–Rachford Splitting for Convex Optimization.* 2025. arXiv: TODO.
+*Extending Douglas–Rachford Splitting for Convex Optimization.* 2025. arXiv: [2511.19637 (math.OC)](https://arxiv.org/abs/2511.19637).
 
 ## Requirements
 
